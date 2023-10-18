@@ -38,3 +38,10 @@
   + Elvárjuk, hogy sikerüljön  
 + Kilövünk ALL
   + Elvárjuk, hogy sikertelen legyen
+
+6. **Nincs hajó**:
++ Nem veszünk fel hajót, hanem lövünk
+  + Elvárjuk, hogy hibát kapjunk
+
+7. **Help parancs**:
++ Működik-e a help parancs?  
